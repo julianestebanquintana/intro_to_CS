@@ -1,6 +1,6 @@
 # Problem Set 2, hangman.py
-# Name: 
-# Collaborators:
+# Name: Julian Quintana
+# Collaborators: -
 # Time spent:
 
 # Hangman Game
